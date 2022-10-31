@@ -15,27 +15,27 @@ const Contact = () => {
                     <div className="contact--general__block">
                         <div className="contact--general__block--email">
                             <FaTelegramPlane className="contact--general__block--email__icon"/>
-                            <a href="#">thedastan_official</a>
+                            <a href="src/components/contact/contact#">thedastan_official</a>
                         </div>
                         <div className="contact--general__block--email">
                             <FaLinkedinIn className="contact--general__block--email__icon"/>
-                            <a href="#">motion-web</a>
+                            <a href="src/components/contact/contact#">motion-web</a>
                         </div>
                         <div className="contact--general__block--email">
                             <AiFillInstagram className="contact--general__block--email__icon"/>
-                            <a href="#">motionweb.io</a>
+                            <a href="src/components/contact/contact#">motionweb.io</a>
                         </div>
                         <div className="contact--general__block--email">
                             <IoLogoWhatsapp className="contact--general__block--email__icon"/>
-                            <a href="#">motion-web</a>
+                            <a href="src/components/contact/contact#">motion-web</a>
                         </div>
                         <div className="contact--general__block--email">
                             <SiGmail className="contact--general__block--email__icon"/>
-                            <a href="#">motionwebteam@gmail.com</a>
+                            <a href="src/components/contact/contact#">motionwebteam@gmail.com</a>
                         </div>
                         <div className="contact--general__block--email">
                             <IoMdCall className="contact--general__block--email__icon"/>
-                            <a href="#">+996 559-69-26-26</a>
+                            <a href="src/components/contact/contact#">+996 559-69-26-26</a>
                         </div>
                         <div className="contact--general__block--title"></div>
                     </div>

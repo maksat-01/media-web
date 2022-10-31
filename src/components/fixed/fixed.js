@@ -23,10 +23,10 @@ const Fixed = () => {
                     </label>
 
                     <ul className="menu__box">
-                        <li><a className="menu__item" href="#">Home</a></li>
-                        <li><a className="menu__item" href="#">Service</a></li>
-                        <li><a className="menu__item" href="#">Our projects</a></li>
-                        <li><a className="menu__item" href="#">Our team</a></li>
+                        <li><a className="menu__item" href="src/components/fixed/fixed#">Home</a></li>
+                        <li><a className="menu__item" href="src/components/fixed/fixed#">Service</a></li>
+                        <li><a className="menu__item" href="src/components/fixed/fixed#">Our projects</a></li>
+                        <li><a className="menu__item" href="src/components/fixed/fixed#">Our team</a></li>
                         <div className="menu__box--general">
                             <AiFillInstagram className="title--general__icons"/>
                             <AiFillLinkedin className="title--general__icons"/>
